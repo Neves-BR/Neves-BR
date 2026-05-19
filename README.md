@@ -1,32 +1,47 @@
-# Hey, I'm Guilherme 👋
+# Olá, sou o Guilherme! 👋
 
-Data Analyst focused on Forest Operations, Process Automation and Business Intelligence.
+**Data Analyst** | Operações Florestais | Automação de Processos | Business Intelligence
 
-I work with:
-- Power BI dashboards
-- Data organization and governance
-- No-code and low-code platforms
-- Operational process improvement
-- Digital products and HTML dashboards
+Sou especializado em transformar dados em insights acionáveis para otimizar operações e impulsionar decisões estratégicas.
 
-## Tech Stack
+---
 
-- Power BI
-- Excel
-- SQL
-- FlutterFlow
-- Bubble.io
-- Supabase
-- PowerApps
+## 🎯 Sobre Mim
 
-## Currently Building
+Com foco em **Forest Operations**, **Process Automation** e **Business Intelligence**, trabalho na:
+- 📊 Criação de dashboards estratégicos em Power BI
+- 📋 Organização e governança de dados
+- ⚙️ Automação de processos operacionais
+- 🔧 Desenvolvimento de soluções low-code/no-code
+- 📈 Melhoria contínua de processos
 
-🌲 Forest operation solutions  
-📊 Data governance structures  
-⚡ Process automation systems  
-👕 The Way - Minimalist Christian clothing brand  
+---
 
-## Contact
+## 💼 Minhas Competências
 
-LinkedIn: [Guilherme Neves](https://www.linkedin.com/in/guilhermebuenoneves/)
-Email: guilhermebuenodasneves@gmail.com
+| Categoria | Tecnologias |
+|-----------|-------------|
+| **Business Intelligence** | Power BI, Excel (VBA/Macros) |
+| **Dados** | SQL, Supabase |
+| **Desenvolvimento Low-Code** | FlutterFlow, Bubble.io, PowerApps |
+| **Design & Front-end** | HTML, CSS |
+
+---
+
+## 🚀 Projetos em Desenvolvimento
+
+- 🌲 **Soluções de Operação Florestal** - Otimização e rastreamento de operações
+- 📊 **Estruturas de Governança de Dados** - Padronização e qualidade de dados
+- ⚡ **Sistemas de Automação de Processos** - Redução de tempo manual e erros
+- 📱 **Aplicações Diversas** - Web apps e mobile solutions
+
+---
+
+## 📬 Conecte-se Comigo
+
+- **LinkedIn:** [Guilherme Neves](https://www.linkedin.com/in/guilhermebuenoneves/)
+- **Email:** guilhermebuenodasneves@gmail.com
+
+---
+
+*Sempre aberto a colaborações, discussões sobre data analytics e projetos inovadores! 🤝*
