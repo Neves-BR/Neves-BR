@@ -23,7 +23,7 @@ Com foco em **Forest Operations**, **Process Automation** e **Business Intellige
 |-----------|-------------|
 | **Business Intelligence** | Power BI, Excel (VBA/Macros), Metabase |
 | **Dados** | SQL, Supabase |
-| **Desenvolvimento Low-Code** | FlutterFlow, Bubble.io, PowerApps |
+| **Desenvolvimento Low-Code** | FlutterFlow, Bubble.io, PowerApps, AppSheet |
 | **Design & Front-end** | HTML, CSS |
 
 ---
